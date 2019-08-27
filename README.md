@@ -42,7 +42,7 @@ https://www.arduino.cc/reference/en/language/functions/analog-io/analogreference
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
 
 My channel and blog are here:  
-------------------------------------------------------------------  
+\------------------------------------------------------------------  
 https://www.youtube.com/RalphBacon  
 https://ralphbacon.blog  
-------------------------------------------------------------------
+\------------------------------------------------------------------
