@@ -21,23 +21,26 @@ ATMEL decided not to precalibrate the AREF voltage (cheapskates!) so each chip h
 ### LINKS    LINKS    LINKS
 <img src="/images/Capacitors.JPG" width="15%" align="left">500pcs 10 Values 0.1uF~10uF 50V Ceramic Capacitor Assortment Kit $8.35  
 http://s.click.aliexpress.com/e/3N1yt07m  
+Take a good look around before purchasing!  
 
 <img src="/images/Tantalum.JPG" width="15%" align="left">100Pcs 10Value 16V Tantalum Capacitor Assorted  
-https://www.banggood.com/100Pcs-10Value-16V-Tantalum-Capacitor-Assorted-Kit-Box-Assorstment-p-1026880.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
-
-ATMega328P Data Sheet  
+https://www.banggood.com/100Pcs-10Value-16V-Tantalum-Capacitor-Assorted-Kit-Box-Assorstment-p-1026880.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
+Same goes for here!  
+<br />
+<br />
+ATMega328P **Data Sheet**  
 https://www.sparkfun.com/datasheets/Components/SMD/ATMega328.pdf
 
-What's a Bandgap Voltage Reference?  
+What's a **Bandgap Voltage Reference?**  
 https://en.wikipedia.org/wiki/Bandgap_voltage_reference
 
-Nick Gammon's page on ADC  
+Nick Gammon's page on **ADC**  
 http://www.gammon.com.au/adc
 
 Arduino Forum on the same subject  
 https://forum.arduino.cc/index.php?topic=331178.msg2285210#msg2285210
 
-Arduino's page on Reference Voltage (AREF)  
+Arduino's page on **Reference Voltage** (AREF)  
 https://www.arduino.cc/reference/en/language/functions/analog-io/analogreference/
 
 If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey
