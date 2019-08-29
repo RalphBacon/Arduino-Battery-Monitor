@@ -19,10 +19,11 @@ In this video I show how we can do that with no extra components, all by the mag
 ATMEL decided not to precalibrate the AREF voltage (cheapskates!) so each chip has to calibrated first using a one line sketch. Easy stuff. And whilst reading the voltage might look a bit esoteric, you don't have to understand all the code - just use it as a function in your sketch or include a small library. All this right here in the GitHub!
 
 ### LINKS    LINKS    LINKS
-
+<img src="/images/Capacitors.JPG" width="15%" align="left">
 500pcs 10 Values 0.1uF~10uF 50V Ceramic Capacitor Assortment Kit *Includes 10 Values $8.35  
-http://s.click.aliexpress.com/e/3N1yt07m
+http://s.click.aliexpress.com/e/3N1yt07m  
 
+<img src="/images/Tantalum.JPG" width="15%" align="left">
 100Pcs 10Value 16V Tantalum Capacitor Assorted  
 https://www.banggood.com/100Pcs-10Value-16V-Tantalum-Capacitor-Assorted-Kit-Box-Assorstment-p-1026880.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
