@@ -10,7 +10,8 @@ Get a timely warning before your batteries go flat!
 
 Battery-powered, Deep Sleep Arduino (ATMega328P) projects are great but how do you know when the batteries are nearly depleted?
 
-<img src="/images/www.maxpixel.net-Batteries-Battery-Flat-Battery-Full-Charge-1688883.jpg" width="25%" align="left">  
+<img src="/images/www.maxpixel.net-Batteries-Battery-Flat-Battery-Full-Charge-1688883.jpg" width="25%" align="right" />  
+
 In the last **video #159** we explored a simple, battery-powered PIR project using an ATMega328P, as found in every Arduino UNO and Nano. Many times I was asked how I could detect the battery voltage and warn the user that it was time to replace the batteries.
 
 In this video I show how we can do that with no extra components, all by the magic of the bandgap voltage set on the AREF pin, either internally or externally.
